@@ -8,7 +8,7 @@
 
 ## Projektíky:
 
-- Zrovna dělám na jedné JS gamesce a celkem to šlape [Odkaz na gamesku](http://nemcovaa.borec.cz/kaficko.html)
+- Zrovna dělám na jedné JS gamesce a celkem to šlape [Odkaz na gamesku](http://nemcovaa.borec.cz/kaficko.html)(někdy je trošku pomalejší tak na ní buďte hodný)
 
 - Taky jsem dělala webík na zápisky ale ten funguje jenom když se mu chce 😜[Odkaz na webík](http://emoposlalabysmiplszapisky.wz.cz/)
 
