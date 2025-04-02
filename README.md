@@ -1,6 +1,6 @@
 # Čaukyyy
 
-- Začla jsem se učit programovat tepr před pár měsícema☀️
+- Začla jsem se učit programovat teprv před pár měsícema☀️
 
 - Umím základy Pythonu, HTML + CSS a učím se JS🌸
 
