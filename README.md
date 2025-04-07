@@ -12,4 +12,6 @@
 
 - Taky jsem dělala webík na zápisky ale ten funguje jenom když se mu chce 😜[Odkaz na webík](http://emoposlalabysmiplszapisky.wz.cz/)
 
+- Další věci najdeš tady [webík](http://nemcovaa.borec.cz)
+
 
