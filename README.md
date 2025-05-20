@@ -1,17 +1,17 @@
-# Čaukyyy
+# O mně
 
 - Začla jsem se učit programovat teprv před pár měsícema☀️
 
-- Umím základy Pythonu, HTML + CSS a učím se JS🌸
+- Umím základy Pythonu, HTML + CSS a učím se JS a React.js🌸
 
 - [Instagram](https://www.instagram.com/eminky_skibidi_lajf.asm/) 
 
-## Projektíky:
+## Projekty:
 
-- Zrovna dělám na jedné JS gamesce [Odkaz na gamesku](http://nemcovaa.borec.cz/kaficko.html) (někdy je trošku pomalejší tak na ní buď hodný pls)
+- Javascript hra (ručně kreslená 🩷)[Odkaz](http://nemcovaa.borec.cz/kaficko.html)
 
-- Taky jsem dělala webík na zápisky ale ten funguje jenom když se mu chce 😜[Odkaz na webík](http://emoposlalabysmiplszapisky.wz.cz/)
+- Web na zápisky s ukládáním do Firebasu [Odkaz](http://emoposlalabysmiplszapisky.wz.cz/)
 
-- Další věci najdeš tady [webík](http://nemcovaa.borec.cz)
+- Python projekty
 
-Normalizujme používání Google sheets jako db
+- JavaScript projekty [Odkaz](http://nemcovaa.borec.cz)
