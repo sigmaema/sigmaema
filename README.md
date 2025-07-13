@@ -1,17 +1,15 @@
-# O mně
+<h1 align="center">Ahoj 🌸</h1>
 
-- Začla jsem se učit programovat teprv před pár měsícema☀️
+---
 
-- Umím základy Pythonu, HTML + CSS a učím se JS a React.js🌸
+<p align="center">
+  💻 Používám mainly C# a Python<br/>
+  🎯 Kódim random blbůstky co mě zrovna napadnou<br/>
+  🌱 Aktuálně testuju všecko jen na MacOS (sillicon M1)<br/>
+</p>
 
-- [Instagram](https://www.instagram.com/eminky_skibidi_lajf.asm/) 
+---
 
-## Projekty:
+<img src="https://skillicons.dev/icons?i=csharp,python,html,css,js,react" alt="Tech Stack" />
 
-- Javascript hra (ručně kreslená 🩷)[Odkaz](http://nemcovaa.borec.cz/kaficko.html)
-
-- Web na zápisky s ukládáním do Firebasu [Odkaz](http://emoposlalabysmiplszapisky.wz.cz/)
-
-- Python projekty
-
-- JavaScript projekty [Odkaz](http://nemcovaa.borec.cz)
+![stats](https://github-readme-stats.vercel.app/api?username=sigmaema&show_icons=true&theme=tokyonight)
