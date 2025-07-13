@@ -10,6 +10,11 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=csharp,python,html,css,js,react" alt="Tech Stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=csharp,python,html,css,js,react" alt="Tech Stack" />
+</p>
 
-![stats](https://github-readme-stats.vercel.app/api?username=sigmaema&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emanemcova&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
