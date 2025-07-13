@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,python,html,css,js,react" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,python,html,css,js,react" alt="Tech Stack" />
 </p>
 
 <p align="center">
