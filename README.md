@@ -6,6 +6,7 @@
   💻 Používám mainly C# a Python<br/>
   🎯 Kódim random blbůstky co mě zrovna napadnou<br/>
   🌱 Aktuálně testuju všecko jen na MacOS (sillicon M1)<br/>
+  🔎 Všechny JS projekty tady http://nemcovaa.borec.cz/ <br/>
 </p>
 
 ---
