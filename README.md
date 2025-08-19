@@ -1,6 +1,3 @@
-<h1 align="center">Ahoj 🌸</h1>
-
----
 
 <p align="center">
   💻 Mainly C#, Python, JS <br/>
